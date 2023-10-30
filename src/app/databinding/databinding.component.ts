@@ -15,7 +15,7 @@ export class DatabindingComponent implements OnInit {
   constructor() {
     this.name = 'Mohan';
     this.company = 'DNT';
-    this.site = 'https://www.scholarhat.com';
+    this.site = 'https://www.scholarhat.com'
   }
 
   Greet() {
