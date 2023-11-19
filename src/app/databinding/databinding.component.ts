@@ -3,7 +3,11 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-databinding',
   templateUrl: './databinding.component.html',
-  styles: [
+  styles: [`
+      .red-class {
+        color: red
+      }
+    `
   ]
 })
 
